@@ -1,0 +1,13 @@
+{
+  "itemGroup.dinosindustrial": "Example Mod Tab",
+  "block.dinosindustrial.example_block": "Example Block",
+  "item.dinosindustrial.example_item": "Example Item",
+
+  "dinosindustrial.configuration.title": "Dino's Industrial Props Configs",
+  "dinosindustrial.configuration.section.dinosindustrial.common.toml": "Dino's Industrial Props Configs",
+  "dinosindustrial.configuration.section.dinosindustrial.common.toml.title": "Dino's Industrial Props Configs",
+  "dinosindustrial.configuration.items": "Item List",
+  "dinosindustrial.configuration.logDirtBlock": "Log Dirt Block",
+  "dinosindustrial.configuration.magicNumberIntroduction": "Magic Number Text",
+  "dinosindustrial.configuration.magicNumber": "Magic Number"
+}
