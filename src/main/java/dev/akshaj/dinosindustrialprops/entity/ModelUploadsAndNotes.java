@@ -42,9 +42,13 @@ public record ModelUploadsAndNotes() {
 //crafting recipe for regular: dirt in center, paper on 4 sides, and 4 bonemeal in corners
 //upgrading crafting recipe: regular bag with a single diamond
 //rotatable on the 15 degree axis
+//both normal and upgraded display (and hold) up to 9 items in a 3x3 grid on top of the bag
+//if possible, randomize which of the 3x3 slots gets filled when placing/duplicating plants
+//the placed plant gets removed with an empty hand right click or by breaking the block
+//when an upgraded has a hopper below, it will not remove the original one planted (which can only be swapped via player)
 
 //vending machine notes: basically a food gacha machine
-//when right clicked with an emerald, will spit out a random food item (should be able to include modded food)
+//when right-clicked with an emerald, will spit out a random food item (should be able to include modded food)
 //rotatable on the 15 degree axis
 //crafting recipe: enchanted golden apple in the center, 4 iron blocks, and 4 of the respective dye in the corners
 
@@ -53,3 +57,31 @@ public record ModelUploadsAndNotes() {
 //Fertilizer_Bag, Fertilizer_Bag_Open, Fertilizer_Bag_Upgraded, Fertilizer_Bag_Upgraded_Open
 //VendingMachine_Black, VendingMachine_Gray, VendingMachine_White
 
+
+//models added afternoon 8/16/2026
+//concrete notes: the cement mixer is another remade stonecutter, which is meant to be able to put in any concrete
+//and turn them into either the concrete wall blocks or the concrete barrier block
+//if you put any concrete powder in, you can get the concrete bag
+//the concrete wall blocks (and bags) stack like slabs into a full block, but instead of 2, it uses 3
+//if either stack is broken, it will drop the appropriate number of the stackable bags/wall pieces
+//all are rotatable on the 15 degree axis
+//the bags can be turned into walls by surrounding a water bucket with them in a crafting table, they cannot be turned in the world
+
+//list of models:
+//Cement_Mixer, Concrete_Bag_Flat_Stack(1 through 3), Concrete_Wall_Flat_Stack(1 through 3), Concrete_Barrier
+
+
+//textures added afternoon 8/16/2026
+//cooling lava notes: there are 4 stages, they can be changed inside a stonecutter from obsidian
+//and can be turned back into obisidian
+//they are meant to go alongside the solid lava/water blocks for create mod copycat blocks
+
+//iron bar notes: there are 8 different textures here, they are meant to be both a retextured iron bar block,
+//and a solid block with this texture on all sides
+//they can be made in a stonecutter from iron bars (both block and bar versions)
+//just literally add retextured versions of iron bars, and please maintain transparency with the solid blocks
+//they are also meant for create mod copycat blocks
+
+//list of textures:
+//cooling_lava_stage(1 through 4), iron_bar_bigmesh, iron_bar_chainmesh, iron_bar_diagonalmesh, iron_bar_mesh,
+//iron_bar_thickmesh, iron_bar_webcenter, iron_bar_webmesh, iron_bar_webplatform
