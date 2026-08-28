@@ -85,3 +85,9 @@ public record ModelUploadsAndNotes() {
 //list of textures:
 //cooling_lava_stage(1 through 4), iron_bar_bigmesh, iron_bar_chainmesh, iron_bar_diagonalmesh, iron_bar_mesh,
 //iron_bar_thickmesh, iron_bar_webcenter, iron_bar_webmesh, iron_bar_webplatform
+
+
+//model and texture updates 8/28/2026
+//Traffic_Barrel_v2 has been uploaded and should replace the previous model file. It uses the same textures, just different item appearance.
+//gravelballs and sandballs texture pngs have been uploaded (Gravel_Pile and Sand_Pile)
+//names should be updated to Gravel Pile and Sand Pile respectively
