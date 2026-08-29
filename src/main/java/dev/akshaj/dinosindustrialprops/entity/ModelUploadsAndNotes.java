@@ -125,3 +125,48 @@ public record ModelUploadsAndNotes() {
 //Wooden_Pallet, Wooden_Pallet_2
 //WoodenCrate_1x1, WoodenCrate_1x2, WoodenCrate_2x2, WoodenCrate_2x2x2, WoodenCrate_Slab1, WoodenCrate_Slab2
 //Tablesaw
+
+
+//models added evening 8/29/2026
+//riot armor notes: I couldn't quite figure out how to make it properly into armor, but I made it as close as I could, with groupings for limbs
+//and fake body parts in the model (that are turned off) which in addition to the display settings show how it should sit on a player
+//crafting recipes are respective iron armor in center, with respective chainmail armor on top, surrounded by leather (or tinted glass in the case of the helmet)
+//add crafting recipe for chainmail armor with the typical crafting arrangements but using chains instead
+//stats:
+//helmet: armor - 3, toughness - 1, durability - 325, enchantability - 10, knockback res - 2
+//chestplate: armor - 7, toughness - 1, durability - 500, enchantability - 10, knockback res - 2
+//leggings: armor - 5, toughness - 1, durability - 450, enchantability - 10, knockback res - 2
+//boots: armor - 3, toughness - 1, durability - 400, enchantability - 10, knockback res - 2
+
+//riot baton notes: basically a sword rework, with a little added on
+//please make it so that the baton has an innate knockback 2 enchantment (so when it has knockback 2 on it, it adds to knockback 4)
+//crafting recipe: iron block in the middle, stick below, with iron nuggets in the corners and chains filling the other slots
+//stats: (use iron sword for missing values)
+//attack - 7, crit - 10, speed - 1.5, sweep damage - 2, durability - 1250, enchantability - 10
+
+//riot shield notes: just reuse the normal shield, but double the durability
+//crafting recipe: shield in the center, iron block above+below, 6 leather on the sides
+
+//welding mask notes: use stats from iron helmet
+//crafting recipe: iron helmet in the center, tinted glass on 3 bottom, iron ingots on the sides, nothing in top 3
+
+//safety helmet notes: use stats from iron helmet
+//crafting recipe: gold helmet in center, gold ingots in the corners, iron ingots everywhere else
+//if possible, (if not, don't worry about it) please reduce damage taken from kinetic energy by 50%
+
+//safety vest notes: use stats from leather chestplate
+//crafting recipe: leather chestplate in the center, orange wool to left+right, white wool to top+bottom, iron nuggets in corners
+//if possible, please make it so that the invisibility effect still happens but no longer functions while worn
+//if possible, please make it so that the glowing effect's duration is doubled when applied while worn
+//please add an innate projectile protection 3 to the armor (so that when it is enchanted with projectile protection 4 it would be like it is 7)
+
+//dino's short sword notes: a custom weapon for me (it is meant to be an endgame item, btw)
+//crafting recipe inside a smithing table: netherite sword, netherite upgrade, netherite block
+//stats:
+//attack - 10, crit - 15, attack speed - 1.2, sweep damage - 2, durability - 4000, enchantability - 15
+//please add a 5 second withering effect and a 15 second poison 2 effect when attacking
+//please add the crushing blow ability of the axe to this weapon
+//please add the armor piercing ability of an iron axe to this weapon
+
+//list of models added:
+//Dino's_ShortSword, Hardhat, Riot_Baton, Riot_Boots, Riot_Chestplate, Riot_Helmet, Riot_Leggings, Riot_Shield, Safety_Vest, Welding_Mask
