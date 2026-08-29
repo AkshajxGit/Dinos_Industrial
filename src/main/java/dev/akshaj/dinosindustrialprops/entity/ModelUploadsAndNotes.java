@@ -117,6 +117,7 @@ public record ModelUploadsAndNotes() {
 
 //tablesaw notes: this can rotate on the 15 degree angles
 //this is the workstation for all the crates/pallets/carboard boxes/barrels
+//crafting recipe: stonecutter in the center, surrounded by iron ingots
 //reuse a stonecutter system, with planks used for crates/pallets, barrels for barrels, and bookshelves for cardboard boxes
 
 //list of models:
