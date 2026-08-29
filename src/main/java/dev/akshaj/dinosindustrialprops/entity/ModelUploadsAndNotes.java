@@ -91,3 +91,37 @@ public record ModelUploadsAndNotes() {
 //Traffic_Barrel_v2 has been uploaded and should replace the previous model file. It uses the same textures, just different item appearance.
 //gravelballs and sandballs texture pngs have been uploaded (Gravel_Pile and Sand_Pile)
 //names should be updated to Gravel Pile and Sand Pile respectively
+
+
+//models added afternoon 8/29/2026
+//barrel notes: these can rotate on the 15 degree angles
+//if possible, can these be added to the player head slot, all with an armor value of 4
+//when placed, items can be input, just like the large pots from vanilla
+
+//cardboard box notes: these can rotate on the 15 degree angles
+//when placed, items can be input, just like the large pots from vanilla
+//Cardboard_Box_4 is unique, in that normally it is empty, but when a cat walks over it, it goes into the box, updating the model with the cat
+//Box 4 should change which cat texture is used based on the specific cat that walks over it
+//Box 4 should have the same creeper repelling properties (and other related things) that a cat has
+//when Box 4 is broken, the cat is released, and (whichever is easier) the cat retains their ownership or switches to the closest player
+//Box 4 uses the default vanilla texture for the cat, so just use those
+
+//wooden crate notes: these can rotate on the 15 degree angles
+//when placed, items can be input, just like the large pots from vanilla
+//please keep the block placement hitbox at 1 block in size, even if the crates are bigger (so we can build right next to them)
+//if possible, can these be added to the player head slot, all with an armor value of 6
+//the wooden crate slabs are stackable like a normal slab
+
+//wooden pallet notes: this can rotate on the 15 degree angles
+//this is stackable up to 2 in one blockspace (like a normal slab) use Wooden_Pallet_2 for the stacked version
+
+//tablesaw notes: this can rotate on the 15 degree angles
+//this is the workstation for all the crates/pallets/carboard boxes/barrels
+//reuse a stonecutter system, with planks used for crates/pallets, barrels for barrels, and bookshelves for cardboard boxes
+
+//list of models:
+//Barrel models: Barrel_Firkin, Barrel_Hogshead, Barrel_Rundlet, Barrel_Tierce, Barrel_Tun
+//Cardboard Box models numbered 1-6
+//Wooden_Pallet, Wooden_Pallet_2
+//WoodenCrate_1x1, WoodenCrate_1x2, WoodenCrate_2x2, WoodenCrate_2x2x2, WoodenCrate_Slab1, WoodenCrate_Slab2
+//Tablesaw
