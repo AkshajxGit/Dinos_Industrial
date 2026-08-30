@@ -198,3 +198,28 @@ public record ModelUploadsAndNotes() {
 //list of models added:
 //Blue_PortaJohn, Green_PortaJohn, Gas_Can_1, Gas_Can_2, PropaneTank_(Small/Medium/Large), Red_Hydrant, Yellow_Hydrant,
 //Welding_Machine, WeldiongTank_(Small/Medium/Large)
+
+
+//models added night 8/29/2026
+//bollard notes: all except concrete bollard are made in the welding machine for 1 iron ingot
+//rotatable on the 15 degrees
+//concrete bollard made in the cement mixer for 1 concrete (any color)
+//others are 1 iron ingot at welding machine
+
+//cart notes: rotatable on the 15 degrees
+//please keep the block hitboxes at no bigger than 1 block (so I can build next to them)
+//iron ingot at welding machine
+
+//trashcan notes: rotatable on the 15 degrees
+//when placed, items can be input, just like the large pots from vanilla
+//iron ingot at welding machine
+
+//dumpster notes: rotatable on the 15 degrees
+//when placed, items can be input, just like the large pots from vanilla
+//please keep the block hitboxes at no bigger than 1 block (so I can build next to them)
+//iron ingot at welding machine
+
+//list of models added:
+//Black_Bollard, Concrete_Bollard, Yellow_Bollard, Yellow_StripedBollard, YellowBlack_Bollard
+//Flat_Cart, Sheet_Cart, Shopping_Basket, Shopping_Cart, Shopping_Cart_Double, Table_Cart
+//Black_Metal_Trashcan, Metal_Trashcan, Black_Trashcan, Blue_Trashcan, Green_Trashcan, Lidless_Dumpster, Medium_Dumpster, Short_Dumpster
