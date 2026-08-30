@@ -233,6 +233,8 @@ public record ModelUploadsAndNotes() {
 //redstone lamp at welding machine
 //there are only the 2 model files, with differing textures for on/off
 //please maintain rotation when toggling on/off
+//redstone signal can be detected from the block above the block that the light is placed under
+//as in, the light is placed underneath a brick block, with redstone on top of the bricks, and it can detect the redstone on top of the bricks
 
 //metal drum notes: rotatable on the 15 degrees
 //light gray drum is the base and is crafted at the welding machine for 1 iron ingot
@@ -330,6 +332,24 @@ public record ModelUploadsAndNotes() {
 //list of models added:
 //Drawer_Cart, Gray_Wheelbarrow, Hand_Truck, Hose_Spool, Orange_Wheelbarrow, Pallet_Jack, Pull_Cart, Wheel_Cart,
 //Rolling_Stairs, WaterCooler_Jug_Side, WaterCooler_Jug_Up, WaterCooler_Mobile, WaterCooler_Stationary
+
+
+//models added night 8/29/2026
+//riot wall notes: rotatable on the 15 degrees
+//default state is down (with model display showing the up version)
+//can be toggled to up with a constant redstone signal by default
+//can be waxed to allow it to be toggled by a single redstone pulse (and can be de-waxed with an axe)
+//can detect redstone signal through the block directly below the wall
+//as in, the wall is placed on top of a brick block, with a redstone line below the bricks, and the wall can detect the redstone
+//shield at welding machine
+//if the below is not possible/too hard, please disregard it and use a carpet block's hitbox
+//I would like the walls to be able to block projectiles and other damage-dealing effects at any rotation
+//imagine the fun pvp-style stuff that could be done with it
+//and when it is toggled up/down, the hitbox should change to reflect its size/rotation
+//please respect rotation when toggled between states with redstone
+
+//list of models added:
+//Riot_Wall(1 through 3)_(Up and Down)
 
 
 
