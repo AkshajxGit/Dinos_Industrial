@@ -171,3 +171,30 @@ public record ModelUploadsAndNotes() {
 
 //list of models added:
 //Dino's_ShortSword, Hardhat, Riot_Baton, Riot_Boots, Riot_Chestplate, Riot_Helmet, Riot_Leggings, Riot_Shield, Safety_Vest, Welding_Mask
+
+
+//models added late evening 8/29/2026
+//welding machine notes: the metal-block crafting (stonecutter based) station (which is for everything else that I don't specify a crafting recipe for)
+//crafting recipe: bucket of lava in the center, fire charge on top, flint and steel below, with 6 iron ingots
+//rotatable on the 15 degrees
+
+//welding tank notes: rotatable on the 15 degrees
+//iron ingot in welding machine
+
+//hydrant notes: rotatable on the 15 degrees
+//when right clicked with an empty bucket (or empty bottle), will fill the bucket with water
+//iron ingot in welding machine
+//can be dye swapped between yellow and red (with respective dyes)
+
+//propane tank notes: rotatable on the 15 degrees
+//iron ingot in welding machine
+
+//gas can notes: rotatable on the 15 degrees
+//empty bottle in welding machine
+
+//porta-john notes: rotatable on the 15 degrees
+//bone block in welding machine
+
+//list of models added:
+//Blue_PortaJohn, Green_PortaJohn, Gas_Can_1, Gas_Can_2, PropaneTank_(Small/Medium/Large), Red_Hydrant, Yellow_Hydrant,
+//Welding_Machine, WeldiongTank_(Small/Medium/Large)
