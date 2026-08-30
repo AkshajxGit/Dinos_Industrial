@@ -297,3 +297,40 @@ public record ModelUploadsAndNotes() {
 //list of models added:
 //Wet_Floor_Sign, Flagger_Sign, Metal_Table_(1 through 3),Safety_Line_(1 through 3), Safety_Line_Joint,
 //Traffic_Barrier_Large, Traffic_Barried_Med_1, Traffic_Barrier_Med_2, Traffic_Barrier_Small, Speed_Bump
+
+
+//models added night 8/29/2026
+//Water cooler notes: rotatable on the 15 degrees
+//water bucket at welding machine
+//when any are right clicked with an empty bucket/bottle will fill with water
+
+//cart notes: rotatable on the 15 degrees
+//iron ingot at welding machine
+
+//wheelbarrow notes: rotatable on the 15 degrees
+//iron ingot at welding machine
+
+//hose spool notes: rotatable on the 15 degrees
+//water bucket at welding machine
+//when right clicked with an empty bucket/bottle will fill it with water
+
+//hand truck notes: rotatable on the 15 degrees
+//iron ingot at welding machine
+
+//pallet jack notes: rotatable on the 15 degrees
+//iron ingot at welding machine
+
+//rolling stair notes: rotatable on the 15 degrees
+//please note that the model in blockbench is 1 block below where I want it to sit (relative to the other blocks) since I want it to be 2.5 blocks tall
+//iron ingot at welding machine
+//if the below is not possible/too difficult, disregard and just keep the hitbox at the default
+//I would like to be able to climb up this block like stairs (at whatever rotation it is at)
+//I would also like to be kept on the stairs by the handrails on the sides (so I can't walk off)
+
+//list of models added:
+//Drawer_Cart, Gray_Wheelbarrow, Hand_Truck, Hose_Spool, Orange_Wheelbarrow, Pallet_Jack, Pull_Cart, Wheel_Cart,
+//Rolling_Stairs, WaterCooler_Jug_Side, WaterCooler_Jug_Up, WaterCooler_Mobile, WaterCooler_Stationary
+
+
+
+//these are the last of the models/textures to be uploaded. Looking forward to seeing them in the mod!
