@@ -239,4 +239,35 @@ public record ModelUploadsAndNotes() {
 //any drum can be dyed into any other drum in a crafting table with the appropriate dye
 
 //list of models added:
-//LED_Thin_Light, LED_Wide_Light
+//LED_Thin_Light, LED_Wide_Light, Metal_Drum_(all 16 colors)
+
+
+//models added night 8/29/2026
+//ladder notes: placeable on any block side (just like normal ladders)
+//they do not need a supporting block
+//iron ingot at welding machine
+//dye shifting between with respective dyes
+
+//stair notes: rotatable on the 90 degrees
+//use the stair block hitbox, and if possible can you please prevent players/mobs from walking off the side of the stairs (Like Macaw's bridge stairs)
+//they do not change state when next to other stairs and does not bend around corners
+//iron ingot at welding machine
+//dye shifting between with respective dyes
+
+//stair rail notes: can be placed on any block side
+//does not need a supporting block
+//can be inverted with a shiftclick (as in the same block side, just changing which side is up)
+//iron ingot at welding machine
+//dye shifting between with respective dyes
+//these use the metal stair textures, fyi
+
+//metal rail notes: can be placed on any block side
+//can be placed on multiple, specific, block sides within 1 block (like Macaw's rails)
+//iron ingot at welding machine
+//dye shifting between with respective dyes
+
+//list of models added:
+//Black_Ladder, Gray_Ladder, Orange_Ladder
+//Black_Metal_Stairs, Gray_Metal_Stairs, Orange_Metal_Stairs
+//Black_Metal_StairRail, Gray_Metal_StairRail, Orange_Metal_StairRail
+//Black_Metal_Rail, Gray_Metal_Rail, Orange_Metal_Rail
