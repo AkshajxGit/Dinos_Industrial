@@ -271,3 +271,29 @@ public record ModelUploadsAndNotes() {
 //Black_Metal_Stairs, Gray_Metal_Stairs, Orange_Metal_Stairs
 //Black_Metal_StairRail, Gray_Metal_StairRail, Orange_Metal_StairRail
 //Black_Metal_Rail, Gray_Metal_Rail, Orange_Metal_Rail
+
+
+//models added night 8/29/2026
+//wet floor sign notes: rotatable on the 15 degrees
+//iron ingot at welding machine
+
+//flagger sign notes: rotatable on the 15 degrees
+//iron ingot at welding machine
+
+//metal table notes: rotatable on the 15 degrees
+//iron ingot at welding machine
+
+//safety line notes: rotatable on the 15 degrees
+//yellow wool at welding machine
+//this includes Safety_Line_Joint
+
+//speed bump notes: rotatable on the 15 degrees
+//yellow wool at welding machine
+
+//traffic barrier notes: rotatable on the 15 degrees
+//iron ingot at welding machine
+//please keep the block hitbox at the default 1 block size
+
+//list of models added:
+//Wet_Floor_Sign, Flagger_Sign, Metal_Table_(1 through 3),Safety_Line_(1 through 3), Safety_Line_Joint,
+//Traffic_Barrier_Large, Traffic_Barried_Med_1, Traffic_Barrier_Med_2, Traffic_Barrier_Small, Speed_Bump
