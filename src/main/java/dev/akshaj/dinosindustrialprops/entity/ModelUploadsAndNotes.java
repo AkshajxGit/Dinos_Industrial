@@ -223,3 +223,20 @@ public record ModelUploadsAndNotes() {
 //Black_Bollard, Concrete_Bollard, Yellow_Bollard, Yellow_StripedBollard, YellowBlack_Bollard
 //Flat_Cart, Sheet_Cart, Shopping_Basket, Shopping_Cart, Shopping_Cart_Double, Table_Cart
 //Black_Metal_Trashcan, Metal_Trashcan, Black_Trashcan, Blue_Trashcan, Green_Trashcan, Lidless_Dumpster, Medium_Dumpster, Short_Dumpster
+
+
+//models added night 8/29/2026
+//lights notes: rotatable on the 15 degrees
+//by default it is off and turns on with a constant redstone current
+//can be waxed to be toggleable (so it will turn on and stay on with a single redstone pulse)
+//can be unwaxed (like any copper block) with an axe
+//redstone lamp at welding machine
+//there are only the 2 model files, with differing textures for on/off
+//please maintain rotation when toggling on/off
+
+//metal drum notes: rotatable on the 15 degrees
+//light gray drum is the base and is crafted at the welding machine for 1 iron ingot
+//any drum can be dyed into any other drum in a crafting table with the appropriate dye
+
+//list of models added:
+//LED_Thin_Light, LED_Wide_Light
