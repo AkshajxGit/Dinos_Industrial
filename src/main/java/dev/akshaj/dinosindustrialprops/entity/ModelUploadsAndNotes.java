@@ -352,5 +352,11 @@ public record ModelUploadsAndNotes() {
 //Riot_Wall(1 through 3)_(Up and Down)
 
 
+//models added 9/5/2026
+//riot armor has a new geckolib file for display and texture
+//please refer to previous entry for stats
+//I have no idea how the armor pieces will be displayed in the hand/on the ground, and if possible, please utilize the display settings of the original files
+
+
 
 //these are the last of the models/textures to be uploaded. Looking forward to seeing them in the mod!
