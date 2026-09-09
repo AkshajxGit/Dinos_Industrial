@@ -358,5 +358,10 @@ public record ModelUploadsAndNotes() {
 //I have no idea how the armor pieces will be displayed in the hand/on the ground, and if possible, please utilize the display settings of the original files
 
 
+//models added 9/9/2026
+//3 new geckolib files added for the hardhat, safety vest, and welding mask
+//sprites added for riot armor set
+//sprites added for hardhat, safety vest, and welding mask
+
 
 //these are the last of the models/textures to be uploaded. Looking forward to seeing them in the mod!
