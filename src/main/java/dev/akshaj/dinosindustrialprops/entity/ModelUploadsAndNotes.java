@@ -365,4 +365,7 @@ public record ModelUploadsAndNotes() {
 //updated models for riot baton and riot shield
 
 
+//added riot shield geckolib version with animations on 9/10/2026
+
+
 //these are the last of the models/textures to be uploaded. Looking forward to seeing them in the mod!
