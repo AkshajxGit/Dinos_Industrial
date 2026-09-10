@@ -362,6 +362,7 @@ public record ModelUploadsAndNotes() {
 //3 new geckolib files added for the hardhat, safety vest, and welding mask
 //sprites added for riot armor set
 //sprites added for hardhat, safety vest, and welding mask
+//updated models for riot baton and riot shield
 
 
 //these are the last of the models/textures to be uploaded. Looking forward to seeing them in the mod!
