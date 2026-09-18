@@ -367,5 +367,7 @@ public record ModelUploadsAndNotes() {
 
 //added riot shield geckolib version with animations on 9/10/2026
 
+//added 1 iron bar/block texture (iron_bar_stairmesh) on 9/17/2026
+
 
 //these are the last of the models/textures to be uploaded. Looking forward to seeing them in the mod!
